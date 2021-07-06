@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Trevor, an aspiring web developer
+- 👀 Some of my favorite things are playing and making games, movie nights, and of course, ice cream 🍦
+- 🌱 I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and dabbling in java game development 
+- 💞️ I’m looking to collaborate on any cool and exciting projects
+- 📫 How to reach me:
+     - Email: slobtrevsa11@gmail.com
