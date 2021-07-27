@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Trevor, an aspiring web developer
-- 👀 Some of my favorite things are playing and making games, movie nights, and of course, ice cream 🍦
-- 🌱 I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and dabbling in java game development 
-- 💞️ I’m looking to collaborate on any cool and exciting projects
-- 📫 How to reach me:
+- Hi, I’m Trevor, an aspiring web developer
+- Some of my favorite things to do include:
+     - playing video games
+     - sitting by the campfire
+     - watching tv or enjoying a movie night
+     - staying up late
+- I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and tutoring a variety of programming courses at my college.
+- Although I mainly work on websites, I have also had a lot of fun working on other small projects, like:
+     - making desktop applications using javafx
+     - making games using the libgdx java library/framework
+     - making minecraft mods for the java edition of the game
+     - making discord bots using python
+- I’m looking to collaborate on any cool and exciting projects, also available for hire
+- How to reach me:
      - Email: trevorslobodnick@gmail.com
