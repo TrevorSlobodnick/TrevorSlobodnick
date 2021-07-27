@@ -1,7 +1,7 @@
 - Hi, I’m Trevor, an aspiring web developer
 - Some of my favorite things to do include:
      - playing video games
-     - sitting by the campfire
+     - relaxing by a campfire
      - watching tv or enjoying a movie night
      - staying up late
 - I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and tutoring a variety of programming courses at my college.
