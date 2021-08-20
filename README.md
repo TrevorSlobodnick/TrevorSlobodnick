@@ -3,7 +3,7 @@
      - playing video games
      - making people laugh
      - watching tv or enjoying a movie night
-     - staying up late
+     - working on side projects
 - I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and tutoring a variety of programming courses at my college.
 - Although I mainly work on websites, I have also had a lot of fun working on other small projects, like:
      - making desktop applications using javafx
