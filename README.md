@@ -9,8 +9,8 @@
      - HTML/CSS/Javascript
      - React
      - PHP
-     - API Development
-     - Ajax
+     - API Development (PHP)
+     - Ajax/JQuery
      - MySQL
 - Although I mainly work on websites, I have also had a lot of fun working on other small projects, like:
      - making desktop applications using javafx
