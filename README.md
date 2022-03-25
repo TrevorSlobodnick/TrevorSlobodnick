@@ -1,22 +1,26 @@
-- Hi, I’m Trevor, an aspiring web developer
-- Some of my favorite things to do include:
-     - playing video games
-     - making people laugh
-     - watching tv or enjoying a movie night
-     - working on side projects
-- I’m currently expanding my knowledge in web development by creating projects, as well as learning the basics to investing, and tutoring students in a variety of different programming languages/courses.
-- I have experience with the following web technologies:
+- Hi, I’m Trevor!
+- I have about 4 years of experience with building websites. I’m currently expanding my knowledge in web development by doing side projects for friends/family or building web applications to solve real world problems.
+- I worked part time as a tutor at St Clair College tutoring students in a variety of different courses that relate to programming. I have tutored classes that focus on programming languages like JavaScript, PHP, C#, Java. I have also tutored courses that focus on the best practices in web, such as mobile web design and intro to web courses where students learn how to write HTML and CSS as well as best practices.
+- I have experience with the following technologies:
      - HTML/CSS/Javascript
      - React
+     - React Native
      - PHP
-     - API Development (PHP)
-     - Ajax/JQuery
+     - WordPress
      - MySQL
+     - JQuery
+     - Git/Github
 - Although I mainly work on websites, I have also had a lot of fun working on other small projects, like:
      - making desktop applications using javafx
-     - making games using the libgdx java library/framework
+     - making mobile applications using React Native
+     - making games in a variety of languages (JavaScript, Python, Java, Godot)
      - making minecraft mods for the java edition of the game
-     - making discord bots using python
-- I’m looking for work, either part time or full time, and also looking to collaborate on any cool and exciting projects
+     - making Discord bots
+- Some of my favorite things to do include:
+     - playing video games
+     - watching tv
+     - working on side projects
+     - learning new things
+- I’m always looking for new experiences, whether that be a job position or a new project to work on, my inbox is always open!
 - How to reach me:
      - Email: trevorslobodnick@gmail.com
